@@ -1,0 +1,12 @@
+{
+  "name": "oscar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run-hello": "node index.js",
+    "test": "tape ./*-test.js  | tap-spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
