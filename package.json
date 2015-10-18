@@ -8,5 +8,9 @@
     "test": "tape ./*-test.js  | tap-spec"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tap-spec": "^4.1.0",
+    "tape": "^4.2.1"
+  }
 }
