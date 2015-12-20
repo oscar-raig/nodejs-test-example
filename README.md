@@ -9,7 +9,7 @@ myrequest.js export two functions:
   *  Second parameter: callback: the callback that will handle the response of a http-request.
 
 * sum: It trace the call.
-* 
+
 
 index.js uses the two functions of makerequest.js module
 
