@@ -18,3 +18,12 @@ The project also has two tests that demostrates the usage of tape tooling test f
 
 
 
+Steps:
+
+1. nvm ls
+
+2. nvm use v6.7.0
+
+
+
+
