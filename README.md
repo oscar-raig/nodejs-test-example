@@ -20,9 +20,15 @@ The project also has two tests that demostrates the usage of tape tooling test f
 
 Steps:
 
-1. nvm ls
+* nvm ls
 
-2. nvm use v6.7.0
+* nvm use v6.7.0
+
+* npm i webpack --save
+
+* create index.js with Hello world
+
+* add script to package.json run-hello
 
 
 
