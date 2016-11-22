@@ -27,6 +27,8 @@ Steps:
 
 * select npm version: nvm use v6.7.0
 
+* initialize project: npm init
+ 
 * install webpack: npm i webpack --save
 
 * create index.js with Hello world
