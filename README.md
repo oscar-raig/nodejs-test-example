@@ -35,6 +35,16 @@ Steps:
 
 * add script to package.json run-hello
 
+** FIRST PART: npm run run-hello should write Hello World
+
+* install request package
+
+* create myrequest.js with two functions sum and makerequest
+
+* call the functions makerequest and sum from index.js
+
+** SECOND PART: At this point you have a module myrequest with two functions.
+
 
 
 
