@@ -20,11 +20,14 @@ The project also has two tests that demostrates the usage of tape tooling test f
 
 Steps:
 
-* nvm ls
+* view witch version of node are installed: nvm ls OR nvm current
 
-* nvm use v6.7.0
+* install v6.7.0 OR install stable verion: nvm install v6.7.0 OR nvm install stable
 
-* npm i webpack --save
+
+* select npm version: nvm use v6.7.0
+
+* install webpack: npm i webpack --save
 
 * create index.js with Hello world
 
